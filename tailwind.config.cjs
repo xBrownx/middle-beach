@@ -32,20 +32,14 @@ module.exports = {
         subHeadline: ["'Gotham-Medium'", 'sans-serif']
       },
       colors: {
-        border: 'hsl(var(--border))',
-        input: 'hsl(var(--input))',
-        ring: 'hsl(var(--ring))',
         background: {
           primary: '#ded9d0',
           secondary: '#162425',
           modal: 'rgba(22, 74, 73, 0.3)'
         },
         font: {
-          primary: {
-            full: "#164A49",
-            light: "rgba(22, 74, 73, 0.70);"
-          },
-          secondary: "",
+          primary: '#E4002B',
+          secondary: "#0093AD",
         },
         button: {
           primary: "#164A49",

@@ -1,0 +1,1 @@
+type LinkProps = {}export function Link({}: LinkProps) {}

@@ -1,0 +1,1 @@
+import * as React from 'react';type SectionTitleProps = {    children?: React.ReactNode;};export function SectionTitle({ children }: SectionTitleProps) {    return (        <h1 className={'font-headline text-4xl text-font-primary'}>            {children}        </h1>    );}

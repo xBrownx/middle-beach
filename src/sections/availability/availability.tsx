@@ -1,0 +1,1 @@
+export function Availability() {    return (        <section>            <div>            </div>        </section>    );}

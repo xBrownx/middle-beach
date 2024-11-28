@@ -64,7 +64,9 @@ export default [{
         },
 
         "import/resolver": {
-            typescript: {},
+            typescript: {
+                "extensions": [".js", ".jsx", ".ts", ".tsx"]
+            },
         },
     },
 
