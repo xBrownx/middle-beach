@@ -1,0 +1,1 @@
+export const THEMED_COLOURS = {    primary: {        indigo: '#1D1740',        red: '#E4002B',        grey: '#545859',        white: '#FFFFFF',    },    secondary: {        blue: '#0093AD',        yellow: '#F1B434',        green: '#007C58',        darkRed: '#8E1000',    },};
