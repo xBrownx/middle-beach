@@ -1,1 +1,1 @@
-export * from '../context/use-navigation-context.tsx';
+export * from '../context/use-navigation-context';

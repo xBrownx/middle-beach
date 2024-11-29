@@ -1,0 +1,1 @@
+import { PropsWithChildren } from 'react';import * as React from 'react';import { cn } from '@/utils/cn';export function SectionBody({    children,    className,}: PropsWithChildren & React.StyleHTMLAttributes<HTMLElement>) {    return (        <p className={cn('m-0 p-0 font-body text-black font-light', className)}>            {children}        </p>    );}

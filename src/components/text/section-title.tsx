@@ -1,0 +1,1 @@
+import * as React from 'react';import { PropsWithChildren } from 'react';export function SectionTitle({ children }: PropsWithChildren) {    return (        <h1            className={                'm-0 border-l-[32px] border-primary-red p-0 pl-4 font-headline text-8xl text-font-primary'            }        >            {children}        </h1>    );}
