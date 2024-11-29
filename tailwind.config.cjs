@@ -13,7 +13,7 @@ module.exports = {
         },
         extend: {
             backgroundImage: {
-                'nav-gradient': 'linear-gradient(#000 0 0, #FFF 0 0)',
+                'nav-gradient': 'linear-gradient(#000 0 0, #E4002B 0 0)',
             },
             backgroundSize: {
                 'nav-size': '0 2px',
