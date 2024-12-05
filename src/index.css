@@ -108,6 +108,11 @@ body {
         font-family: 'Gotham-Bold';
         src: url(assets/fonts/gotham_bold.otf) format('opentype');
     }
+
+    @font-face {
+        font-family: 'Archivo';
+        src: url(assets/fonts/ArchivoNarrow-VariableFont_wght.ttf) format('truetype');
+    }
 }
 
 /*.mapboxgl-ctrl,*/

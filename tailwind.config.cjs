@@ -30,6 +30,7 @@ module.exports = {
                 subHeadline: ['Gotham-Medium', 'sans-serif'],
                 body: ['Gotham-Book', 'sans-serif'],
                 bodyBold: ['Gotham-Bold', 'sans-serif'],
+                headingVariant: ['Archivo', 'sans-serif'],
             },
             colors: {
                 background: {

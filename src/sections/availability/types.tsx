@@ -1,0 +1,1 @@
+export interface Lot {    id: string;    label: string;    area: string;}
