@@ -1,5 +1,5 @@
 {
-  "homepage": "https://xBrownx.github.io/middle-beach/",
+  "homepage": "https://middlebeachindustrialestate.com/",
   "name": "middle-beach",
   "private": true,
   "version": "0.0.0",
@@ -8,7 +8,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "tsc -b && vite build --cname middlebeachindustrialestate.com",
     "lint": "eslint .",
     "preview": "vite preview",
     "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,css,md}\" --config ./.prettierrc.json"
