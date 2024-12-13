@@ -30,7 +30,7 @@
 
     --swiper-pagination-color: #E4002B;
     --swiper-pagination-bullet-inactive-color: #FFF;
-    --swiper-navigation-sides-offset: 16vw;
+    --swiper-navigation-sides-offset: 18vw;
     --swiper-navigation-color: #FFF;
 
     .swiper-pagination-bullet {
@@ -41,6 +41,7 @@
     .swiper-pagination-bullet-active {
         background-color: #E4002B;
     }
+
 }
 
 #root {
