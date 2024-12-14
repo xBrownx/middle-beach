@@ -42,6 +42,10 @@
         background-color: #E4002B;
     }
 
+    @media (max-width: 1400px) {
+        --swiper-navigation-sides-offset: 1vw;
+    }
+
 }
 
 #root {
